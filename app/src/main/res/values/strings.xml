@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+
+    <!--Text for the buttons for increasing the score-->
+    <string name="point">Point</string>
+
+    <!--Text for the second player-->
+    <string name="player_2">Player 2</string>
+
+    <!--Text for the first player-->
+    <string name="player_1">Player 1</string>
+
+    <!--The initial score to be displayed-->
+    <string name="starting_score">0</string>
+
+    <!--The text for the button that resets the score-->
+    <string name="set_over">SET OVER</string>
+
+    <!--Content description for the addition icon-->
+    <string name="addition_symbol">Addition icon</string>
+
+    <!--Toast for informing the players to switch sides-->
+    <string name="please_switch_sides">The set is over! Please switch sides.</string>
+
+    <!--Toast for informing the players that the game is about to end-->
+    <string name="match_point">Match Point!.</string>
+</resources>
